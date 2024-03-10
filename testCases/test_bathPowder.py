@@ -1,6 +1,4 @@
 import time
-from hashlib import new
-from telnetlib import EC
 
 from selenium import webdriver
 from selenium.webdriver import ActionChains
